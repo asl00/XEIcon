@@ -1,0 +1,179 @@
+
+<!DOCTYPE html>
+<html lang="ko" class="xe-mobilelayout">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"/>
+<title>진형길 - 테레사 팔머의 감금</title>
+<!-- CSS -->
+<link rel="stylesheet" href="/common/css/A.xe.min.css,q20160201185734.pagespeed.cf.6FAuTYh-oa.css"/>
+<link rel="stylesheet" href="/A.common,,_css,,_mobile.min.css,,q20160201185734+modules,,_board,,_m.skins,,_fb_11,,_css,,_smbStyle.css,,q20160212180643+modules,,_board,,_m.skins,,_fb_11,,_css,,_xeicon,,_xeicon.min.css,,q20160212180645+modules,,_board,,_m.skins,,_fb_11,,_css,,_smbReadStyle.css,,q20160212180643,Mcc.-ldyRflVDX.css.pagespeed.cf.8oUq0XjMSy.css"/>
+
+
+
+<link rel="stylesheet" href="/modules/editor/styles/ckeditor_light/style.css?20160201185913"/>
+<!-- JS -->
+<script src="/common/js/jquery.min.js,q20160201185734.pagespeed.jm.B3N9s1OU_f.js"></script>
+<script src="/common/js/js_app.js,q20160201185735+common.js,q20160201185734+xml_handler.js,q20160201185735+xml_js_filter.js,q20160201185735+x.min.js,q20160201185735.pagespeed.jc.zuyFk6NYcO.js"></script><script>eval(mod_pagespeed_xU2RWiezIn);</script>
+<script>eval(mod_pagespeed_fWJGuf0Apx);</script>
+<script>eval(mod_pagespeed_bvdUF54DCS);</script>
+<script>eval(mod_pagespeed_4o$2OFtaf0);</script>
+<script>eval(mod_pagespeed_umEyj9opd7);</script>
+<script src="/common,_js,_xe.min.js,q20160201185735+modules,_board,_m.skins,_fb_11,_js,_script.js,q20160212180643+modules,_board,_m.skins,_fb_11,_js,_mboard.min.js,q20160212180643.pagespeed.jc.jr5sx2eMuU.js"></script><script>eval(mod_pagespeed_odUWF59MJg);</script>
+<script>eval(mod_pagespeed_PU4Dw7gEx3);</script>
+<script>eval(mod_pagespeed_SmjK29BykF);</script>
+
+
+<style>*{margin:0;padding:0}#overlay{position:fixed;top:0;left:0;width:100%;height:100%;background:#000;opacity:.8;filter:alpha(opacity=20)}#modal{position:absolute;z-index:50;background:rgba(0,0,0,.2);border-radius:14px;padding:0px}#content{float:center;width:300px;height:400px;border-radius:10px;background:#fff;padding:10px}#close{position:absolute;background:url(http://video.mantime.co.kr/layer/xclose_.png.pagespeed.ic.0vwwY2vQ2g.png) 0 0 no-repeat;width:1px;height:1px;display:block;text-indent:-9999px;top:-7px;right:-7px}</style><script>//<![CDATA[
+var current_url="http://video.mantime.co.kr/?mid=board_11&document_srl=6187";var request_uri="http://video.mantime.co.kr/";var current_mid="board_11";var waiting_message="서버에 요청 중입니다. 잠시만 기다려주세요.";var ssl_actions=new Array();var default_url="http://video.mantime.co.kr/";
+//]]></script>
+</head>
+<body>
+<div class="sweetMobileBoard">
+	
+		<div class="smbHeader">
+	<ul class="smbTools">
+		<li class="smbCategoryBtn"></li>
+		<!-- <li><a href="/index.php?mid=board_11&amp;act=dispBoardWrite"><i class="xe-pencil"></i><span>쓰기</span></a></li> -->
+	</ul>
+	<!--타이틀 출력-->
+	<h2 class="smbTitle"><a href="/board_11">진형길</a></h2>
+	
+	<!--레이아웃을 변경합니다. 사용자가 리스트뷰, 겔러리뷰 등을 선택할 수 있습니다.-->
+	<!--
+		<!--카테고리를 출력합니다.-->
+	<ul class="smbCategory">
+		<li class="on">
+			<a href="/board_11/6187">전체</a>
+		</li>
+						<!--********* 카테고리 리스트를 나열한 후, 2배수가 아닐때 2배수가 되도록 메뉴 항목을 임의로 추가합니다. **********-->
+											<li><a href="#"></a></li>
+							<!--********* 카테고리 리스트를 나열한 후, 4배수가 아닐때 4배수가 되도록 메뉴 항목을 임의로 추가합니다. **********-->
+											<li class="fourdump"><a href="#"></a></li>
+						<li class="fourdump"><a href="#"></a></li>
+						</ul>
+</div>	<div class="smbWrap">
+					<!-- 팔로우 체크 -->
+		
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+		<script>var modal=(function(){var
+method={},$overlay,$modal,$content,$close;method.center=function(){var top,left;top=Math.max($(window).height()-$modal.outerHeight(),0)/2;left=Math.max($(window).width()-$modal.outerWidth(),0)/2;$modal.css({top:top+$(window).scrollTop(),left:left+$(window).scrollLeft()});};method.open=function(settings){$content.empty().append(settings.content);$modal.css({width:settings.width||'auto',height:settings.height||'auto'});method.center();$(window).bind('resize.modal',method.center);$modal.show();$overlay.show();};method.close=function(){$modal.hide();$overlay.hide();$content.empty();$(window).unbind('resize.modal');};$overlay=$('<div id="overlay"></div>');$modal=$('<div id="modal"></div>');$content=$('<div id="content"></div>');$close=$('<a id="close" href="#">close</a>');$modal.hide();$overlay.hide();$modal.append($content,$close);$(document).ready(function(){$('body').append($overlay,$modal);});$close.click(function(e){e.preventDefault();method.close();});return method;}());$(document).ready(function(){$.get('../layer/fb11.html',function(data){modal.open({content:data});setTimeout(modal.close,15000);});});</script>
+<!-- 팔로우 체크 -->
+<div class="sweetMobileBoard">
+	<div class="smbWhite">
+		
+		<div id="fb-root"></div>
+		<script>(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="//connect.facebook.net/ko_KR/sdk.js#xfbml=1&version=v2.5";fjs.parentNode.insertBefore(js,fjs);}(document,'script','facebook-jssdk'));</script>
+		<div class="smbPadding smbArticleHeader left">
+		<p class="smbArticleCategory">
+			이 페이지는 이 동영상의 고유 페이지입니다.</br>
+			페이스북에서 삭제되어도 이 페이지는 삭제되지 않습니다.</br>
+			공유하기를 눌러 소장하세요. :D</br>
+			<b>[동영상 짤림]</b>일 경우, 수시로 재업로드 합니다.</br>
+			<b>[공유하기]</b> 해놓고 기다려 주세요. :D</br>
+			</br>
+			최신 영화인 경우 동접자가 많아져서 로딩이 길어질 수 있습니다.</br>		
+		</p>
+			<center></br>
+			<div class="fb-follow" data-href="https://www.facebook.com/profile.php?id=100011242564516&fref=ts" data-layout="button_count" data-show-faces="false"></div>
+			<div class="fb-share-button" data-href="https://www.facebook.com/profile.php?id=100011242564516&fref=ts" data-layout="button_count"></div>
+			</center></br>
+		</div>
+		
+		
+		<div class="smbPadding smbArticleHeader left">
+						<h3 class="smbArticleTitle">
+				테레사 팔머의 감금			</h3>
+			<ul class="smbArticleInfo">
+				<!-- <li><i class="xe-user"></i>write</li> -->
+				<li><i class="xe-time-o"></i>2016.03.08 18:29:35</li>
+				<!-- <li><i class="xe-comment-list"></i>0</li> -->
+			</ul>
+		</div>
+		
+		<div class="smbPadding smbArticle">
+									<div class="ArticleWrap">
+				<!--BeforeDocument(6187,144)--><div class="document_6187_144 xe_content"><p><script pagespeed_no_defer="">//<![CDATA[
+(function(){var g=this,h=function(b,d){var a=b.split("."),c=g;a[0]in c||!c.execScript||c.execScript("var "+a[0]);for(var e;a.length&&(e=a.shift());)a.length||void 0===d?c[e]?c=c[e]:c=c[e]={}:c[e]=d};var l=function(b){var d=b.length;if(0<d){for(var a=Array(d),c=0;c<d;c++)a[c]=b[c];return a}return[]};var m=function(b){var d=window;if(d.addEventListener)d.addEventListener("load",b,!1);else if(d.attachEvent)d.attachEvent("onload",b);else{var a=d.onload;d.onload=function(){b.call(this);a&&a.call(this)}}};var n,p=function(b,d,a,c,e){this.f=b;this.h=d;this.i=a;this.c=e;this.e={height:window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight,width:window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth};this.g=c;this.b={};this.a=[];this.d={}},q=function(b,d){var a,c,e=d.getAttribute("pagespeed_url_hash");if(a=e&&!(e in b.d))if(0>=d.offsetWidth&&0>=d.offsetHeight)a=!1;else{c=d.getBoundingClientRect();var f=document.body;a=c.top+("pageYOffset"in window?window.pageYOffset:(document.documentElement||f.parentNode||f).scrollTop);c=c.left+("pageXOffset"in window?window.pageXOffset:(document.documentElement||f.parentNode||f).scrollLeft);f=a.toString()+","+c;b.b.hasOwnProperty(f)?a=!1:(b.b[f]=!0,a=a<=b.e.height&&c<=b.e.width)}a&&(b.a.push(e),b.d[e]=!0)};p.prototype.checkImageForCriticality=function(b){b.getBoundingClientRect&&q(this,b)};h("pagespeed.CriticalImages.checkImageForCriticality",function(b){n.checkImageForCriticality(b)});h("pagespeed.CriticalImages.checkCriticalImages",function(){r(n)});var r=function(b){b.b={};for(var d=["IMG","INPUT"],a=[],c=0;c<d.length;++c)a=a.concat(l(document.getElementsByTagName(d[c])));if(0!=a.length&&a[0].getBoundingClientRect){for(c=0;d=a[c];++c)q(b,d);a="oh="+b.i;b.c&&(a+="&n="+b.c);if(d=0!=b.a.length)for(a+="&ci="+encodeURIComponent(b.a[0]),c=1;c<b.a.length;++c){var e=","+encodeURIComponent(b.a[c]);131072>=a.length+e.length&&(a+=e)}b.g&&(e="&rd="+encodeURIComponent(JSON.stringify(s())),131072>=a.length+e.length&&(a+=e),d=!0);t=a;if(d){c=b.f;b=b.h;var f;if(window.XMLHttpRequest)f=new XMLHttpRequest;else if(window.ActiveXObject)try{f=new ActiveXObject("Msxml2.XMLHTTP")}catch(k){try{f=new ActiveXObject("Microsoft.XMLHTTP")}catch(u){}}f&&(f.open("POST",c+(-1==c.indexOf("?")?"?":"&")+"url="+encodeURIComponent(b)),f.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),f.send(a))}}},s=function(){var b={},d=document.getElementsByTagName("IMG");if(0==d.length)return{};var a=d[0];if(!("naturalWidth"in a&&"naturalHeight"in a))return{};for(var c=0;a=d[c];++c){var e=a.getAttribute("pagespeed_url_hash");e&&(!(e in b)&&0<a.width&&0<a.height&&0<a.naturalWidth&&0<a.naturalHeight||e in b&&a.width>=b[e].k&&a.height>=b[e].j)&&(b[e]={rw:a.width,rh:a.height,ow:a.naturalWidth,oh:a.naturalHeight})}return b},t="";h("pagespeed.CriticalImages.getBeaconData",function(){return t});h("pagespeed.CriticalImages.Run",function(b,d,a,c,e,f){var k=new p(b,d,a,e,f);n=k;c&&m(function(){window.setTimeout(function(){r(k)},0)})});})();pagespeed.CriticalImages.Run('/mod_pagespeed_beacon','http://video.mantime.co.kr/board_11/6187','a-Qq6rI91p',true,false,'BU5xGm6YchE');
+//]]></script><img alt="테레사 팔머의 감금" src="http://movie.phinf.naver.net/20131111_80/1384135927620Tfdze_JPEG/movie_image.jpg" pagespeed_url_hash="3244934500" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></p>
+
+<p><span style="font-size:22px;"><strong><a href="http://popcoming.com/m/v/10h28nq">1부</a></strong></span></p>
+
+<p><span style="font-size:22px;"><strong><a href="http://popcoming.com/m/v/1lx8nem">2부</a></strong></span></p></div><!--AfterDocument(6187,144)-->			</div>
+								</div>
+		
+		<div class="smbPadding smbArticleHeader left">
+		<p class="smbArticleCategory">
+			<h3><center>동영상이 안나올 때</center></h3></br>
+			1. 처음 재생 버퍼링이 있을 수 있음</br>
+			2. 영화 리스트는 "<a href="https://www.facebook.com/profile.php?id=100011242564516&fref=ts">진형길</a>"☜ 을 클릭해서 보면 됨</br>
+			3. WI-FI가 되는 공간이 아니면 데이터 폭탄</br>
+			4. 동접자가 많아지면 버퍼링이 길어집니다.</br>
+			5. 아이폰에서 동영상 재생이 안될때 '슬립+홈'버튼을 계속 눌러 재부팅 후 감상</br>
+			6. 안드로이드는 플래시 플레이어 어플 설치</br>
+		</p>
+		</div>
+				
+		<!--
+		
+		<ul class="smbBottomInfo">
+			<li class="favorite"><a href="#" onclick="doCallModuleAction('document','procDocumentVoteUp','6187');return false;"><i class="xe-love-o"></i><span>추천 0</span></a></li>
+			<li class="tag"><i class="xe-bookmark-left"></i></li>
+			<li class="files"><i class="xe-download-my"></i></li>
+		</ul>
+		-->
+	</div>
+	
+	
+	<div class="smbWhite smbTags">
+		<p class="smbTagsTitle"><i class="xe-bookmark-left"></i>태그목록</p>
+		<ul>
+			<li>없음</li>					</ul>
+	</div>
+	
+	<div class="smbWhite smbFiles">
+		<p class="smbFilesTitle"><i class="xe-download-my"></i>첨부파일 목록</p>
+		<ul class="files">
+			<li>없음</li>					</ul>	
+	</div>
+	
+		<!--
+	
+	
+	<form action="./" method="post" class="smbCommentAdd" onsubmit="return procFilter(this, insert_comment);"><input type="hidden" name="error_return_url" value="/board_11/6187" /><input type="hidden" name="act" value="" /><input type="hidden" name="vid" value="" />
+		<input type="hidden" name="mid" value="board_11" />
+		<input type="hidden" name="document_srl" value="6187" />
+		<input type="hidden" name="comment_srl" value="" />
+		<div class="smbPadding smbCommentAddTitle">
+			<i class="xe-message-bubble"></i>댓글 쓰기		</div>
+		<div class="smbCommentAddComment">
+			<textarea name="content" rows="4" cols="42" id="rText" placeholder="댓글"></textarea>
+		</div>
+		<div class="smbElse">
+			<input name="" type="submit" value="댓글 등록" class="big" />
+			<ul class="elseInfo">
+				<li>
+					<input name="nick_name" type="text" id="uName" placeholder="글쓴이" />
+				</li>
+				<li>
+					<input name="email_address" type="email" id="uMail" placeholder="이메일 주소" />
+				</li>
+				<li>
+					<input name="password" type="password" id="uPw" placeholder="비밀번호" />
+				</li>
+				<li>
+					<input name="homepage" type="url" id="uSite" value="http://" placeholder="홈페이지" />
+				</li>
+			</ul>		</div>
+	</form>
+	
+		
+		
+		--> 
+</div>		</div>
+		</div>
+		<script src="/files/cache/js_filter_compiled/d046d1841b9c79c545b82d3be892699d.ko.compiled.js,q20160201222249.pagespeed.jm.pFyq72pk7y.js"></script>
+			<script src="/files/cache/js_filter_compiled/1bdc15d63816408b99f674eb6a6ffcea.ko.compiled.js,q20160201222249+9b007ee9f2af763bb3d35e4fb16498e9.ko.compiled.js,q20160201222249.pagespeed.jc.CjIYZR5NRS.js"></script><script>eval(mod_pagespeed_PRQvo$a5O3);</script>
+			<script>eval(mod_pagespeed_WzdHmYrJOz);</script>
+	</body>
+</html>
